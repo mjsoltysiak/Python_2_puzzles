@@ -6,8 +6,13 @@ Created on Mon Jul 03 10:59:17 2017
 
 Puzzle from: https://www.theguardian.com/science/2017/jul/03/can-you-solve-it-are-you-smarter-than-a-cat
 
-A straight corridor has 7 doors along one side. Behind one of the doors sits a cat. Your mission is to find the cat by opening the correct door. Each day you can open only one door. If the cat is there, you win. You are officially smarter than a cat. If the cat is not there, the door closes, and you must wait until the next day before you can open a door again.
-If the cat was always to sit behind the same door, you would be able to find it in at most seven days, by opening each door in turn. But this mischievous moggy is restless. Every night it moves one door either to the left or to the right.
+A straight corridor has 7 doors along one side. Behind one of the doors sits a cat.
+Your mission is to find the cat by opening the correct door. Each day you can open only one door. 
+If the cat is there, you win. You are officially smarter than a cat. If the cat is not there, the door closes, 
+and you must wait until the next day before you can open a door again.
+If the cat was always to sit behind the same door, you would be able to find it in at most seven days, 
+by opening each door in turn. But this mischievous moggy is restless. 
+Every night it moves one door either to the left or to the right.
 How many days do you now need to make sure you can catch the cat?
 """
 

@@ -29,11 +29,6 @@
 import string
 
 
-# Auto-generated code below aims at helping you parse
-# the standard input according to the problem statement.
-
-
-#NUMBER_OF_INPUTS = int(raw_input())
 NUM2ALPHA = dict(enumerate(string.uppercase, 1))
 ALPHA2NUM = {i[1]:i[0] for i in NUM2ALPHA.items()}
 ALL_LABELS = []
